@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ML, DL, DA 
 - 📫 You can reach me via email toanpham201099@gmail.com 
 # Status 
-![![image](https://camo.githubusercontent.com)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toan201099&theme=dark)](https://git.io/streak-stats)
 
