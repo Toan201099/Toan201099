@@ -7,7 +7,7 @@
 # About
 Currently, I'm embedded software/tester at **K Solution**.
 ** Embedded programing skills:**
-- Programming C/C++ and developing extension for debuging on VSCode
+- Programming C/C++ and develop extension for debuging on VSCode
 # 📘 My repositories 
 
 # Stacks
