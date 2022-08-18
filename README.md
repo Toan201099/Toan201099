@@ -5,7 +5,7 @@
 # Status 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toan201099&theme=dark)](https://git.io/streak-stats)
 # About
-I am embedded software/tester at **K Solution**.
+Currently, I'm embedded software/tester at **K Solution**.
 ** Embedded programing skills:**
 - Programming C/C++ and developing extension for debuging on VSCode
 # 📘 My repositories 
