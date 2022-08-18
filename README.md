@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m @Toan you can call me James  
+- 👋 Hi there, I’m @Toan you can call me James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 - 👀 I’m interested in Machine Leaning, Deep Learning, DA 
 - 🌱 I’m currently learning ML, DL, DA 
 - 📫 You can reach me via email toanpham201099@gmail.com 
