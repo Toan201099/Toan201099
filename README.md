@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ML, DL, DA 
 - 📫 You can reach me via email toanpham201099@gmail.com 
 # Status 
-[![GitHub Streak](https://github.com/Toan201099/?user=Toan201099&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toan201099&theme=dark)](https://git.io/streak-stats)
 # About
 Currently, I'm embedded software/tester at **K Solution**.
 ** Embedded programing skills:**
