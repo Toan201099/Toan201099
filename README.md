@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @Toan you can call me James <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
-- 👀 I’m interested in Machine Leaning, Deep Learning, DA 
-- 🌱 I’m currently learning ML, DL, DA 
+- 👀 I’m interested in Deep Learning 
+- 🌱 I’m currently learning DL
 - 📫 You can reach me via email toanpham201099@gmail.com 
 # Status 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Toan201099&theme=dark)](https://git.io/streak-stats)
